@@ -1,6 +1,8 @@
 # git-test
-NERD
+[NERD]
 
-Good for you
+[Good for you]
 
 {Who you callin' a nerd}
+
+[You]
